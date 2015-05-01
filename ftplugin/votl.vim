@@ -1,5 +1,4 @@
 " My additions
-setlocal foldlevelstart=0
 setlocal spell
 
 inoremap <buffer> <CR> <CR>x<BS>
